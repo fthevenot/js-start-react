@@ -2,6 +2,10 @@
   "name": "js-start-react",
   "version": "1.0.0",
   "description": "Start project for react with redux.",
+  "scripts": {
+    "prestart": "babel-node tools/startMessage.js",
+    "start": "babel-node tools/srcServer.js"
+  },
   "author": "Franck Thévenot",
   "license": "MIT",
   "dependencies": {
