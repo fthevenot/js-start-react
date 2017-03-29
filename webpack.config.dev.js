@@ -1,5 +1,5 @@
-import webpack from "webpack"
-import path from "path"
+import webpack from "webpack";
+import path from "path";
 
 export default {
     debug: true, // Show debug information
@@ -33,4 +33,4 @@ export default {
             {test: /\.svg(\?v=\d+\.\d+\.\d+)?$/, loader: 'url?limit=10000&mimetype=image/svg+xml'}
         ]
     }
-}
+};
