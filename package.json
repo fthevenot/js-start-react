@@ -1,8 +1,8 @@
 {
-  "name": "pluralsight-redux-starter",
+  "name": "js-start-react",
   "version": "1.0.0",
-  "description": "Starter kit for React and Redux Pluralsight course by Cory House",
-  "author": "Cory House",
+  "description": "Start project for react with redux.",
+  "author": "Franck Thévenot",
   "license": "MIT",
   "dependencies": {
     "babel-polyfill": "6.8.0",
